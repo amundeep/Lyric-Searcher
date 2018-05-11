@@ -1,0 +1,9 @@
+stop-words = "lemur-stopwords.txt"
+index = "lyrics-idx"
+corpus = "line.toml"
+dataset = "lyrics"
+prefix = "."
+[[analyzers]]
+	filter = "default-unigram-chain"
+	ngram = 1
+	method = "ngram-word"
