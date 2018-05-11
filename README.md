@@ -8,15 +8,6 @@ Included in this repository is the .pdf file of the research report that goes in
 
 You will need Python 3 and MeTA/Metapy installed in order to run the testing program script on your machine.
 
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-brew install python
-pip3 install metapy
-```
-
 ### Installing
 
 First you have to install Python using Homebrew or by downloading it off of the internet.  Below is an example of using Homebrew in order to install Python. 
